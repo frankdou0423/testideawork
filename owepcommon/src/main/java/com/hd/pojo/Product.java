@@ -6,7 +6,7 @@ package com.hd.pojo;
 public class Product {
 
     private  int id;
-
+    //产品名称
     private  String proName;
 
     private  double price;
