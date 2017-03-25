@@ -2,9 +2,10 @@ package com.hd.pojo;
 
 /**
  * Created by frankdou on 2017/3/24.
+ * 本类是描述产品的信息
  */
 public class Product {
-
+    //产品的ID
     private  int id;
     //产品名称
     private  String proName;
